@@ -42,8 +42,8 @@ This project aims to enhance vehicle safety using IoT technology. It focuses on 
 - SOS Button Emergency Alerts  
 
 ## Code
-- **Arduino:** `arduino/smart_vehicle.ino`  
-- **NodeMCU:** `nodemcu/nodemcu_iot.ino`
+- **Arduino:** `arduino/Arduino_Code.ino.ino`  
+- **NodeMCU:** `nodemcu/Node_MCU_Code.ino.ino`
 
 ## License
 This project is open-source under the MIT License.
